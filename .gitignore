@@ -1,0 +1,22 @@
+# Ignorar arquivos de mídia de vídeo
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.wmv
+*.ts
+*.webm
+*.m4v
+
+# Ignorar arquivos de mídia de áudio
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.wma
+*.m4a
+
+# Ignorar a pasta de arquivos temporários criada pelo projeto
+.audiowise/
